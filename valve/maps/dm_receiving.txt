@@ -1,0 +1,33 @@
++---------------------------------------------------------------+
+|                           RECEIVING				|
+|                         BY  VICTOR-933			|
+|								|
++---------------------------------------------------------------+
+| SUMMARY:							|
+|								|
+| No fancy story this time, sorry. Legitimately couldn't think	|
+| of one for this map. Anyway, some sort of pre-disaster BMRF	|
+| garage/warehouse thing. Fun fact: this is actually the 	|
+| evolution of an aborted attempt at making a horror-themed	|
+| single-player map pack using stock assets.			|
+|								|
+| Better hope nobody flushes the toilet if you're in the sewer.	|
+|								|
++---------------------------------------------------------------+
+| INSTRUCTIONS:							|
+|								|
+| Place BSP file in half-life/valve/maps			|
+|								|
++---------------------------------------------------------------+
+| DEV NOTES:							|
+|								|
+| Peak R_Speeds are around 1200. This map uses stock assets.	|
+|								|
++---------------------------------------------------------------+
+| 	      Find more of my stuff on Gamebanana!		|
+| 	    http://www.gamebanana.com/members/213517		|
+|								|
+|	Check out TWHL for mapping tutorials and goodies!	|
+|			http://www.twhl.info/			|
+|								|
++---------------------------------------------------------------+

@@ -1,0 +1,60 @@
+* Play Information *
+Title 			: Lost Village V1.0
+Filename		: lost_village.bsp
+Author			: [HLW] Wolf
+Other lvls by author	: Combat Camp V1.1 / V2.0
+Email address 		: Wolf73@home.ivm.de
+Home page		: http://hlw.gametown.de
+Description		: The map is a little villagelike arrangement
+			  of some buildings and wide passages with
+			  thick boarderwalls around them. This map
+			  allows teamplay (see the place with the tank)
+			  but DM is the major design.  
+Additional Credits to   : The Clanmembers of Half-Life for testing
+                          the map and give me comments about it
+                          Also to radium for reviewing the Version 1.1
+                          of the Combat Camp. Tanks a lot.
+Single Player           : no
+Cooperative Player      : no
+Deathmatch Player       : only DM and teamplay of course
+CTF2			: whats that? lol
+Difficulty Settings     : no
+New Textures            : no
+CD Track                : no
+
+* Construction *
+Base			: new Level from scratch
+Editor(s) used          : Worldcraft 2.0
+Compile Machine		: Pentium II 350MHz
+Compile time		: around 1400 secs.
+
+================================================================
+		::: ADDITIONAL INFO :::
+================================================================
+
+In this map are a lot of secrets. There are four of them.
+You wanna find them, when notice the following things:
+no rpg? no egon? no snarks? no bunch of a mp with granades and ammo?
+This can not be in a map from [HLW]Wolf!?!?
+Don´t worry! This toys are all in there somewhere!!!
+Look for them and have fun with the killing tools hehe.
+
+
+This map can be reviewed on our page http://hlw.gametown.de soon.
+
+
+
+* Copyright / Permissions *
+
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+[HLW] Wolf      Half-Life-Warriors 1999
+

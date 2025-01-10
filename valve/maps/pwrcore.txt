@@ -1,0 +1,56 @@
+===================================================================================
+DATE: July 2, 1999
+===================================================================================
+Title                   : Powercore
+Files                   : pwrcore.bsp
+Author                  : QS (Stephen Smart)
+Email Address           : quantumsaint@yahoo.com
+Homepage                : http://start.at/the.page (Quake2 levels availible)
+
+
+Date of FINAL release   : July 2, 1999
+
+Description		: A DM map for fraggin around in.
+                          
+===================================================================================
+--ADDITIONAL CREDITS--
+
+My brother David for all the input and help on it and all the help playtesting and brainstorming for ideas and changes.
+Your the man Happy Cat...
+
+Playtesters: David, Darrell, Pat, Merit, Steve O, David C
+
+and a BIG THANK YOU to EVERYBODY at DOE for the help...you know who you are. You guys RULE!!!
+=========================================================================================
+--PLAY INFORMATION--
+Game			: Half-Life
+Level Name      	: Powercore
+Files    		: pwrcore.bsp
+Single Player           : No	
+Cooperative 		: No 
+                          
+DeathMatch              : Yes
+MAP    # of PLAYERS     : 4-10 (2 if you dont mind a slower game)
+             				
+Difficulty Settings     : No
+
+Platform(s) used               : P200mmx 32MB mem and AMD K6 300 64MB mem
+Known bugs                     : If you find any problems (anything) please let me know also. Thank you...
+New sounds/textures/entities   : NO
+============================================================================================
+===========================================================================================
+--LOADING INFORMATION--
+Download, unzip, and put the .BSP file in your c:\sierra\half-life\valve\maps directory (your drive letter may be different). Its that easy...Done 
+
+--Additional Notes--
+This is the 8th DM map I made for HL. It was tested at DOE.
+ 
+
+Please play the hell out of it and let me know what you think. Any comments at all.
+Please do not E-MAIL me for help with your level. I will play it but I will not FIX it. I visit an online disscusion group, try those for help. They help me quite a bit.
+============================================================================================
+--LEGAL--
+This Half-Life map/level (Powercore-pwrcore.bsp) is (c) 1999 Stephen Smart.
+DO NOT put this level/map on any sort of commercial product or compilation unless you have permission from me.
+You MAY distribute this BSP file through any other means, provided you include this .txt file 
+(unaltered) and it is free of charge. Do not modify this BSP in any way.

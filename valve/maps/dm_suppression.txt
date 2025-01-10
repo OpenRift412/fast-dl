@@ -1,0 +1,66 @@
++---------------------------------------------------------------+
+|                         DM_SUPPRESSION			|
+|                         BY  VICTOR-933			|
+|								|
+|	TWHL COMPETITION 34 "HALF-LIFE REIMAGINED" ENTRY	|
+|								|
++---------------------------------------------------------------+
+| SUMMARY:							|
+|								|
+| Early morning, two days after a "routine experiment" tore	|
+| asunder the very fabric of our reality. Since the Incident,	|
+| military units from the USMC Hazardous Environment Combat	|
+| Unit (HECU) have arrived at the Black Mesa Research Facility	|
+| in force. Many of the BMRF employees who had survived the	|
+| chaos immediately following the Resonance Cascade surged	|
+| topside, expecting safety but finding themselves staring down	|
+| gun barrels. It seems the government, for whatever reason,	|
+| wants to ensure there are no survivors at Black Mesa, and the	|
+| highly trained troops	of the HECU are efficiently, although	|
+| begrudgingly, carrying out their orders. Of particular	|
+| interest is a young MIT graduate working in Sector C -- the	|
+| so-called "Ground Zero" of the Resonance Cascade. In the face	|
+| of mounting resistance, both human and alien, HECU forces	|
+| have called in the big guns, establishing tactical		|
+| strongpoints with armor support at strategic locations like	|
+| the main entrance to the Lambda Complex. Supposedly this	|
+| "Gordon Freeman" intends to reach the Lambda Complex, and the	|
+| HECU plans to eliminate this thorn in their side once and for	|
+| all...							|
+|								|
++---------------------------------------------------------------+
+| INSTRUCTIONS:							|
+|								|
+| Place BSP file in half-life/valve/maps			|
+|								|
++---------------------------------------------------------------+
+| DEV NOTES:							|
+|								|
+| Peak R_Speeds are around 1250. This map uses stock assets.	|
+|								|
+| This map was built over the course of about a week for the	|
+| GoldSrc engine (Half-Life 1 Deathmatch). A DM reimagining of	|
+| C2A5B (the first tank battle in Surface Tension), this is	|
+| actually my second attempt at this map -- the first one had a	|
+| bad layout and was causing too many problems with efficient	|
+| VIS calculations during compile (it ran for six hours before	|
+| I decided "to hell with this"...) This new iteration ran	|
+| great, though; full compile took less than ten minutes.	|
+|								|
+| Normally I don't plan anything at all with my maps; they just	|
+| -happen-. This is probably the closest I've ever gotten to	|
+| working from a preexisting plan. Seems to have turned out OK.	|
+|								|
+| Went pretty crazy with details for some reason... maybe I got	|
+| into the spirit of competition? *shrug* yay for excessive and	|
+| pointless details though (like the usable and breakable water	|
+| dispenser and fully-modeled vehicle interiors...)		|
+|								|
++---------------------------------------------------------------+
+| 	      Find more of my stuff on Gamebanana!		|
+| 	    http://www.gamebanana.com/members/213517		|
+|								|
+|	Check out TWHL for mapping tutorials and goodies!	|
+|			http://www.twhl.info/			|
+|								|
++---------------------------------------------------------------+
