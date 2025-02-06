@@ -1,0 +1,32 @@
+Title    : Never Ending
+           a Half-Life deathmatch map
+Filenames: maps/neverending.bsp
+           maps/neverending.txt
+           maps/neverending.res
+           sound/jinx/borg_lava1.wav
+           sound/dm_quakearena/amb2.wav
+           sound/dm_quakearena/amb3.wav
+Date     : 31 March 2019
+Authors  : Trempler (trempler2003xxl@web.de)
+           ribcage (dragoslt@yahoo.com)
+Players  : ~16?
+  
+To install this map put all files into their according folders in your Half-Life directory as listed above. Your Half-Life directory may be similar to this on Windows:
+C:\Program Files\Steam\steamapps\common\Half-Life\valve
+C:\Sierra\Half-Life\valve
+
+On Linux:
+/home/yourname/.local/share/Steam/steamapps/common/Half-Life/valve
+  
+  
+Note by Trempler:
+
+One of my last creations for Half-Life and also one of the most enjoyable ones.
+After a long time we finally going to release our collaboration, which we had a lot of fun and joy with.
+We started with only some basic layout and expanded it by a lot. Hopefully people will like our crazy abomination.
+Special thanks to Windawz for testing with us.
+
+Note by ribcage:
+
+This map was an experiment at creating a map by collaboration of two mappers. Since April 2016 we exchanged the map source file around 12 times. We both put an equal amount of work into the map. The outcome is quite bizzare but nevertheless it was an interesting experience. Tools I used were J.A.C.K., Valve Hammer Editor 3.5, Map2Curve by ToTac (http://gibshooter.com), Vluzacn's Half-Life Tools (VHLT 34). Biggest thanks goes to Trempler for being patient with my slow mapping and making this map a reality. Big thanks to rufee who gave us a server and made it easy to test this map. Thanks goes to everyone who helped to test the map. This map can be played on quakeroach.net:27019. Check out http://quakeroach.net.
+
