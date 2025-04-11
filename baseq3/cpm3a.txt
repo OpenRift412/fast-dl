@@ -1,0 +1,50 @@
+========================================================================
+-- CPM3a
+-- Map title:       Use and Abuse (swelt remix)
+-- Author:          FxR|Jude (Australia) and no'swelt (UK)
+-- Author contact:  adonald@nsw.bigpond.net.au and swelt@cpma.org.uk
+========================================================================
+
+- Play Information -
+ : Make sure you have Quake III point release 1.32 or later.
+ : Ensure you have CPMA version 1.1 or later
+ : Extract map_cpm3a.pk3 from the zip into quake3/baseq3 folder.
+ : EITHER Use All Seeing Eye to find a dedicated server running 
+ : the map or play bots.  /map cpm3a
+
+- Level Information -
+Game type		: 1v1/ffa
+Single Player		: Yes
+Player load		: 1v1, 2-4
+Weapons			: sg/pg/gl/lg/rl/rg
+New Sounds		: No
+New Graphics		: Yes (Textures creditted below)
+New Models		: No
+
+- Construction -
+Editors used	: Q3Radiant v202
+Utilities used	: Q3Map, Editpad
+
+- Notes -
+Built with Pro Mode in mind, and inspired by Quake's DM4 it is a high-performance map. 
+It was used extensively (over Q3DM6 and Q3DM13) by US players in the Lansanity Pro Mode
+Tournament (July 2000).  It's since been used in every CPM tournament all over the world
+and is seen by many as the proving ground for CPM 1v1 play.
+
+The remix by swelt changes nothing about the gameplay, but adds a fresh look to this 
+classic CPM tourney map.  There are also several bot optimisations (no affect to humans).
+
+- Credits -
+: id Software for Quake/Quake2/Quake3.
+: Jude for the original and all time classic CPM3.
+: evillair for his textures (Evil Set 8)
+	http://planetquake.com/hfx
+: Randy Reddig for his Majestic textures
+	http://www.shaderlab.com
+
+- Copyright / Permissions -
+You may not include or distribute this map in any sort of 
+commercial product without permission from the author. You may 
+not mass distribute this level via any non-electronic means, 
+including but not limited to compact disks, and floppy disks
+without permission from the author.  thx.

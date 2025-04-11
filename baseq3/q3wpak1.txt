@@ -1,0 +1,46 @@
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+               /// Threewave /// 
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+
+ Release Info.
+
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+Basic Information for q3wpak1
+-=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=--=-
+
+File            : q3wcp1 (bug fix)
+Title           : Japanese Castles - 3W
+Author          : Mike "g1zm0" Burbidge
+
+File            : q3wcp9
+Title           : Spider Crossings - 3W
+Author          : Dan "Scancode" Gold
+
+File            : q3wcp10
+Title           : Crude Crossings - 3W
+Author          : Dan "Scancode" Gold
+
+File            : q3wcp11
+Title           : Industrial Accident - 3W
+Author          : Jason "Cornelius" Gill
+
+File            : q3wcp12
+Title           : Mostly Harmless
+Author          : John "Hal9000" Schuch
+
+File            : q3wcp13
+Title           : Funk dat!
+Author          : Øyvinf "Quakeulf (aka Hrewty) Sørøy
+
+File            : q3wcp14
+Title           : Camper Crossings - 3W
+Author          : Dan "Scancode" Gold
+
+File            : q3wcp15
+Title           : Industrial Revolution
+Author          : Johnny Law
+
+File            : q3wcp16
+Title           : Coral CTF - 3W
+Author          : Willow
+

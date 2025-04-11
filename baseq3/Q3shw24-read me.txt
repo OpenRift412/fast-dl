@@ -1,0 +1,138 @@
+   
+================================================================
+Title                 : The Dreadful Place
+Pak name              : Q3shw24
+Autor                 : Pawel 'ShadoW' Chrapka
+Contact               : chrapka.pawel@gmail.com
+Homepage	      : www.shadowsdomain.wordpress.com
+================================================================
+* info *
+
+Tournament	      : no
+Deathmatch            : yes
+Team                  : yes
+Ctf		      : no
+================================================================
+* Construction *
+Programs               :GtkRadiant-1.4, Winrar, Notpad, Q3map2
+Build time            : ~43h
+Based on              : nothing
+Brushes               : +4100
+Entities              : +550
+new textures          : yes
+new sounds            : no
+new models            : yes
+
+Items	              : RL x 1		YA x 1           
+                        SG x 2		RA x 1
+                        LG x 1		MH x 1               
+                        GL x 1  
+			PG x 1
+			RG x 1                                                                  		
+================================================================
+* How to run it *
+
+
+Place Q3shw24.pk3 in your quake3/baseq3 directory.
+In game go to console and type 'map Q3shw24'
+Map is also avaible via 'skirmish' menu
+================================================================
+* My other maps *
+
+			Quake III :
+
+1)  q3shw1:Ten pierwszy raz     	(This first time)        
+2)  q3shw2:Za wolno frajerze...		(Too slow sucker)
+3)  q3shw3:Frag-ment			(Frag-ment)	
+4)  q3shw4:Katedra			(Cathedral)
+5)  q3shw5:Dom				(House)	
+6)  q3shw6:Szkola			(School)		
+7)  q3shw7:Wysokie napiecie		(High voltage)	
+8)  q3shw8:Gdy nie ma nadziei		(When ther's no hope)
+9)  q3shw9:Bez wyjscia  		(No escape)		
+10) q3shw10:Czarna wieza		(Black tower)	
+11) q3shw11:Orientuj siê		(Be knowledgeable)
+12) q3shw12:Pora umierac		(Time to die)
+13) q3shw13:Miasto			(City)
+14) q3shw14:Memento Mori		(Memento Mori)
+15) q3shw15:Wysokie napiecie II		(High voltage II)
+16) q3shw16:Dotyk smierci		(Touch of death)
+17) q3shw17:Empty words
+18) q3shw18:Holy blood
+19) q3shw19:Time to die (Remix)
+20) q3shw20:Annihilation
+21) q3shw21:Destroyer
+22) q3shw22:Simple brushes
+23) q3shw23:Hipertrofia
+24) q3shw24:The dreadful place
+
+xx) shw_100b:100 brushes
+xx) shw_q3dm17:Q3dm17 conversion by ShadoW
+xx) Eplus1: Memento mori remix
+xx) Eplus2: Annihilation remix
+xx) Lmsm02-ShadoW
+
+
+			Quake2World :
+
+01) Dies Irae
+02) Necropolis
+03) Impact
+04) Double Impact
+
+
+You can find my maps at:
+www.shadowsdomain.wordpress.com
+www.lvlworld.com
+
+================================================================
+* BiG Thx for: *
+
+- Id software - for Quake.
+- Ydnar (http://shaderlab.com) for qmap2
+- Tabun (http://www.tabun.nl) for great decals textures (GJ man :)!)
+- http://www.cgtextures.com - for great textures sources
+- Maverick (campagnolo90@hotmail.com) from NoGhost (http://forums.noghost.net) - for organizing Quake III mapping cometition
+-Sponsors, who donated great prizes for competition:
+	-AMD	(http://www.amd.com/)
+	-ATI	(http://ati.amd.com/)
+	-Sapphire	(http://www.sapphiretech.com/)
+================================================================
+	You know what is incredible? We have almost 2010 year, and somebody is organizing mapping competition for our old (but still great!) Quake III Arena. WOW. What's more cool it's not just SOME competition, but actually it's event with great prizes from serious sponsors. I'm really impresed, Maverick - you gave me some great time while I was working on this map, thank you! 
+	It was real fun to work with this map, and to be honest I'm amazed myself how easy it went with it for me. It took me maybe 20 minutes to draw layout, and another 20 to build some test map. Few hours of gameplay testing and it was done. Then started real modeling/texturing, which was relatively easy, almost from the beginning I was aware of how this map should be looking in the end. Texture set I used here, is mix of my own and some TA textures. Whole build process took less then 44 hours, so it's not too much :). Just as I mentioned - fun.
+	Map is destinated for TDM gametype, it's just big enough to handle 8, or even more people.
+
+================================================================
+* Copyright / Permissions: *
+
+
+    Q3shw24.map -- a map for Quake III Arena
+    Copyright (C) 2009 Pawel 'ShadoW' Chrapka -- http://http://shadowsdomain.wordpress.com/
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License along
+    with this program; if not, write to the Free Software Foundation, Inc.,
+    51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
+
+Note that the GPL only applies to my work (the .map-file), some textures were made
+by Id Software and are released under a different license (see THANKS & CREDITS).
+
+See Q3shw24-map.license.txt for the full license of this map.
+
+One or more textures on this map have been created with images from CGTextures.com. These images may not be redistributed by default. Please visit www.cgtextures.com for more information
+    
+ShadoW
+13.12.2009
+
+
+

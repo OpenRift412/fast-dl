@@ -1,0 +1,41 @@
+____________________
+The Vast And Furious 
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Game			: Quake 3 Arena
+Map Title		: The Vast And Furious
+Map Filename		: bubctf1.bsp
+Mapfile Source		: bubctf1-src.map
+
+Author			: ButterB
+e-Mail			: butterb@planetquake.com
+Author Homepage		: http://www.planetquake.com/butterb
+
+_______________________________
+The Vast And Furious - 13th RMX
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Game			: Quake 3 Arena
+Map Title		: The Vast And Furious - 13th RMX
+Map Filename		: 13vast.bsp
+Base			: bubctf1-src.map
+Relase Date		: 13. January 2004
+
+Author			: Stefan Scholz "aka sst13 / [FDK]Railraver"
+e-Mail			: sst13@gmx.de
+Author Homepage		: http://www.sst13.de
+
+Description		: Remix of the CTF Spacemap "The Fast And Furious" by ButterB
+
+Player			: 6-12
+Gametypes		: CTF , TA , 3W , FFA , Team Deathmatch
+Botsupport		: Yes
+
+New Textures		: Yes , Evil Lair Textureset 8 (evil8:prototype)
+New Shaders		: Yes
+New Sounds		: No
+New Models		: No
+
+Editor(s) used		: Q3Radiant v2.02 , Q3Map Explorer , q3map2 v2.5.11
+Compile Machine		: TB/1000 with 256 MBram
+Compile Time		: 130 min
+
+Credits			: id Software , PQ Editig Forum , zi-lan Members , all Quake Zockers...

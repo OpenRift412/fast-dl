@@ -1,0 +1,118 @@
+================================================================
+Title                   : Bitter Embrace   
+PK3 Name                : mrcq3t6.pk3
+Date			: August 19, 2001
+Author                  : Todd 'Mr.CleaN' Rose
+Email Address           : mrclean@planetquake.com
+Home Page		: http://www.planetquake.com/mrclean/
+		  			                            
+
+Thanks to		: id Software (of course), betatesters
+
+betatesters		: Promode.org folks, Jeff Yost & the Ramshackle crew, ztn
+
+
+Addtional Info		: The OSP version of this map utilizes notffa and nottournament 
+			  keys (thanks to a|rhea) which allows osp to use only one bsp version.
+			  The pk3 for VQ3 release includes separate bsps for tourney and ffa play.
+			  The only difference between the two modes is weapon respawn times and a regen in ffa.
+			  tourney is mrcq3t6 (15 sec respawns)
+			  ffa is mrcq3t6_ffa (standard 5 sec respawns)   
+
+
+Revisions:
+
+Release Candidate, ver 0.85 (8.18.01) -Reversed spotlights, changed tex on eifs
+
+Release Candidate, ver 0.8 (8.13.01) -cosmetic changes
+
+Beta Layout, ver 0.7 (8.08.01)	-cosmetic changes
+				-moved tele_dest from floor of GL area to stair landing
+				-increased height of MH drop access
+
+Beta Layout, ver 0.6 (8.06.01)	-added jp from ground floor to YA ledge
+
+Beta Layout, ver 0.5 (7.29.01)	-minor clipping fixes
+				-changed weap respawn to 15 sec
+				-cosmetic changes: new jp & light textures, new sky, wall textures
+
+Alpha Layout, ver 0.35 (7.16.01)-deepened MH pit
+				-added clips to trestles
+				-added sourced lighting
+				-started detailing process
+
+Alpha Layout, ver 0.30 (7.3.01)	-modified LG/stairs area to be more playable
+				-added some detailing (2 new textures)
+				-initial hint brush & cluster portal placement
+				-added target_locations (there are probably a few "dead" spots)
+				-this release includes a custom bot in a separate pk3
+				if anyone tests the bot out, let me know how it works
+				I've watched several bot games & it seems to play fine.
+				I am aware of instances of bot confusion in the RL room, I'll try to fix it before final
+
+Alpha Layout, ver 0.25 (6.28.01)-Moved MH into GL room
+				-there are two different GL room configurations in the pk3
+
+Alpha Layout, ver 0.20 (6.27.01)-move LG down into area away from GL a bit
+				-Added MH (in long stairwell)
+				-Added one more box of shells & 1 more of bullets
+
+Alpha Layout, ver 0.15 (6.25.01)-replaced RA jp with stairs
+				-added access between LG hall and GL room
+				-moved LG ammo (because of above change)
+				-moved tele destinations
+				-fixed odd clipping on 50H drop hole
+				-tweaked walkway support by GL to allow dj 
+
+Alpha Layout, ver 0.1 (6.20.01)
+				-basic entity placement
+				-minimum lighting
+				-minimum detailing
+================================================================
+
+* Play Information *
+
+Game			: Quake 3
+Bot Match		: Route Included
+Deathmatch		: 1on1/3-5 FFA
+Capture The Flag	: No
+
+* MAP Information *
+
+BSP Name                : maps/mrcq3t6.bsp
+Shader Name		: scripts/mrcq3t6.shader
+Textures		: textures/mrcq3t4/*
+Sounds			: no
+Extra LIGHT		: no
+VIS level 4		: Yes
+
+* Construction *
+
+Base			: New
+New Textures		: yes
+New Shaders		: yes
+Construction Time	: who knows
+Editor used		: GTKRadiant
+Qutilities		: Q3MAP
+Other utilities		: BSPC, Photoshop, Paint Shop Pro
+
+
+* Copyright / Permissions *
+
+All original and composed textures in this level remain property of
+Todd 'Mr.CleaN' Rose.
+
+All original and edited shaders in this level remain property of
+the sources respective owners.
+
+You may NOT use this level as a base to build additional levels.
+You MAY use the textures and shaders but give credit where credit is due.
+You may only redistribute modified id textures outside of this pk3 if they are
+being included the the pk3 for another level they are used in. (IE: they cannot be
+distributed as part of a texture pak, per Paul Jacquays of id Software) 
+
+You MAY distribute this PK3 in any electronic format (BBS, Internet,
+CD, etc) as long as you contact me first, include all files intact in
+the original archive, and send me a free copy (if it's a CD :) Thanks.
+
+

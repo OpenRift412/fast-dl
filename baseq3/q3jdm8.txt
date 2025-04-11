@@ -1,0 +1,54 @@
+released: January 3rd, 2000
+-------------------------------------------------------------------
+ Title                   : Wicked
+ Filename                : q3jdm8.bsp
+ Author                  : FxR|jude
+ Email Address           : adonald@nsw.bigpond.net.au
+ Description             : q3 duel map			   			   			   			                             
+-----------------------------------------------------------------
+
+-------------------------------------------------------------------
+- Play Information -
+-------------------------------------------------------------------
+
+ Settings                : bleh
+ Deathmatch 2-8          : not really - although 8 or 9 dm starts
+ Duel			 : Designed for duel.
+
+-------------------------------------------------------------------
+- Construction -
+-------------------------------------------------------------------
+
+ Design Time      	 : Several weeks. Originally a q2 ffa map, converted to q3 duel map over several days.
+
+ Settings		 : qbsp3			- 2 seconds
+			   qvis3			- 3 seconds
+			   qrad3 -extra			- 20 seconds
+
+ Editor used  	 	 : Quark, QERadiant
+ Compile Utilities	 : q3map by id
+ Known Bugs      	 : none
+ Additional Credits	 : [BH]Python, FxR|Mode2 for extensive playtesting.
+
+-------------------------------------------------------------------
+- Instructions -
+-------------------------------------------------------------------
+
+Place .pk3 file into baseq3 directory. 
+
+-------------------------------------------------------------------
+- Copyrights/Permissions -
+-------------------------------------------------------------------
+
+This map design (q3jdm8) is copyright
+2000 by FxR|jude - adonald@nsw.bigpond.net.au.
+
+This map MAY NOT be used as a base for other levels.
+
+This map MAY be distributed on bbs sites or the
+ WWW, as long as this text file is included, intact.
+
+This map MAY NOT be distributed on CD or floppy
+ unless you have the author's permission.
+
+

@@ -1,0 +1,84 @@
+================================================================
+Title				: foolish legacy
+Date				: 18th December 2002
+Filename			: map_nodm5.pk3
+Author				: Rich "swelt" Jacques
+Email Address			: swelt@cpma.org.uk
+Website				: http://www.cpma.org.uk
+
+Description			: Quake III Arena level designed for CPM
+				Team DeathMatch
+
+		~~  OPTIMISED FOR CHALLENGE PROMODE  ~~
+			~ http://www.promode.org ~
+
+================================================================
+
+- Play Information -
+ : Make sure you have Quake III point release 1.32 or later.
+ : Ensure you have CPMA version 99x or later
+ : Extract map_nodm5.pk3 from the zip into quake3/baseq3 folder.
+ : EITHER Use All Seeing Eye to find a dedicated server running 
+ : the map or play bots.  /map nodm5
+
+
+- Level Information -
+Game type		: tdm/ffa
+Single Player		: Yes
+Player load		: 4v4/ 6-12
+Weapons			: Plenty (Varies)
+New Sounds		: Yes
+New Graphics		: Yes (Textures creditted below)
+New Models		: No
+
+- Construction -
+Editors used	: Q3Radiant v202
+Utilities used	: Q3Map, Editpad
+
+- Notes -
+
+This map is optimised for CPMA TDM.
+
+Bot Play is pretty rank.  They won't go for several major items, but
+I wasn't prepared to make architecture compromises to make them better.
+I've "cheated" a bit to get them to take some, but for the best bot
+experience, use CPMA, set bot_challenge 1 and set bot_boost 1.2 or 1.3.
+
+This is the fifth in the series of maps dedicated to CPM Clan Nobles
+#nobles on irc.quakenet / http://www.cpma.org.uk/nobles
+More this way cometh...
+
+- Credits -
+: id Software for Quake/Quake2/Quake3.
+: xfoo for the base architecture on which most of the level is built
+	http://www.xfoo.org
+: Clan Nobles and Clan OcT for playtesting
+: The CPM Forum Crew for feedback (esp. rmIon)
+	http://www.challenge-network.com/ikon-bin/forums.cgi?forum=2
+: evillair for his textures (Evil 8)
+	http://planetquake.com/hfx
+: than for his industrial textures
+	http://www.planetquake.com/cesspit
+: senn for his textures
+	http://www.planetquake.com/senn/
+: Katherine "Jezebel" Dinger for her Crate
+	http://div.dyndns.org/FOO/
+: Karloff for his crate
+: Schwenz for his floor
+	http://users.nac.net/schwenz/
+: Symbi0nt for his help on Texture Alignment
+	http://www.speedcapture.com/
+: Anyone else I've forgotten :) (probably some crate textures :o)
+: EVERYONE who has played this level, cheers!
+
+- Links -
+
+CPMA Homepage	http://www.promode.org
+CPMA.org.uk	http://www.cpma.org.uk
+
+- Copyright / Permissions -
+You may not include or distribute this map in any sort of 
+commercial product without permission from the author. You may 
+not mass distribute this level via any non-electronic means, 
+including but not limited to compact disks, and floppy disks
+without permission from the author.  thx.

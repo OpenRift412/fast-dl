@@ -1,0 +1,77 @@
+1/13/2000
+================================================================
+Title                   : Japanese Castles ctf & dm for Quake III Arena
+Filename                : japanc.pk3 (contains 2 maps)
+Maps			: Japanctf.bsp & japandm.bsp
+Author                  : Mike Burbidge (g1zm0)
+Email Address           : mikeburb@home.com
+home page		:http://www.members.home.net/mburbidge/
+			 http://www.planetquake.com/3/
+
+			 
+Description		:Quake III Arena - ctf, and dm maps
+
+Instructions:
+-------------
+1 ) Extract japanc.pk3 into your Quake3/baseq3/ directory
+2 ) Start Quake3
+3 ) Both maps will be accessable from the menu
+
+* Play Information *
+
+type of game:
+japanctf - ctf
+japandm - ffa & team dm
+
+*** IMPORTANT *** you must have zoid's Threewave ctf addon pak to see all the textures in the ctf map !!!!
+
+ Settings                : Ctf, Deathmatch, Team Deathmatch
+ Bot Support             : Bots are fully supported
+
+			: 
+Level Name(s)           : japanctf & japandm
+Single Player           : bots
+Cooperative 2-4 Player  : bots
+Deathmatch Player       : yes
+Ctf			: yes
+Difficulty Settings     : bots again
+
+
+Puter:			:dual p3-450mhz w/256 meg /NT4.0
+compile time:		:45 minutes, 17 minutes respectively (q3map -light -extra)
+
+* Construction *
+
+Base            : Original scratch level I made for q2, totally redone for q3
+Editor used     : Qe4, Q3radiant !!
+
+Known Bugs      : none
+Build time	: eeewww
+================================================================
+Credits:   
+ID Software, for Doom, Quake, Quake II, and Quake3Arena
+id software rules !
+================================================================
+A Special Thank you to Eri Takase who graciously allowed me to use some .jpg's of
+her Japanese Caligraphy in this map:
+Eri Takase Artworks
+Fine Japanese Calligraphy
+http://www.takase.com
+================================================================
+Also a big thank you to all the people that helped me test this map out, and gave me great feedback:
+lots from the beatdown2000, clan [mcp], clan rew, the people on etg, clan Talon [tln], clan es, Draco, and nosf,
+and the people hangin in #qeradiant on telefragged irc.
+================================================================
+A huge thank you to L-fire, who help in the original quake2 layout, hey it works better in q3a :)
+================================================================
+Also I want to thank MrElusive ! He helped me work through getting his bots working in my rocks :p
+================================================================
+
+* Legal Stuff *
+
+This level is (c) 2000 Mike Burbidge.
+You are not to include or distribute this map in any sort of commercial product without 
+first obtaining permission from the author.  You may not mass distribute this level via any 
+non-electronic means, including but not limited to compact disks, and floppy disks.
+
+

@@ -1,0 +1,61 @@
+03/24/2000
+================================================================
+Title                   : Blood Run
+                        : Blood Run [High Octane]
+Filename                : ztn3dm1.pk3
+Author                  : Sten "ztn" Uusvali
+E-mail                  : ztn@planetquake.com
+Description             : Quake III: Arena deathmatch levels
+================================================================
+
+
+* Play Information *
+
+- Make sure you have the Quake III: Arena point release installed.
+  For more information, visit http://www.quake3arena.com/
+- Unzip the contents of ztn3dm1.zip to your Quake3\baseq3 folder
+- Run Quake III: Arena 
+- From the main menu select Single player then Skirmish. Both of the
+  maps should appear somewhere on the list, usually at the end.
+
+
+* Description *
+
+Game type     : Free For All, Tourney
+Player load   : 2 - 8
+Respawn spots : 9
+New Sounds    : No
+New Graphics  : Yes, all textures (c) 1999-2000 Id Software Inc.
+Known issues  :
+
+
+* Author *
+
+Name  : Sten "ztn" Uusvali
+E-mail: ztn@planetquake.com
+Home  : http://www.planetquake.com/ztn
+
+
+* Credits *
+
+- Jeff Yost and the crew at Ramshackle along with the
+  World's Largest Blood Run Fan
+- Grant "Ninja" Creasey
+- all the others who have helped me testing this map
+
+
+* Copyright / Permissions *
+
+Copyright (2000) by Sten Uusvali. All rights reserved.
+
+This package may only be distributed by means of electronic transfer,
+free of any charge to the recipient, and may not be modified in any way.
+All the files included in the original package must remain intact and
+unmodified.
+
+This package may not be distributed on any CD-ROM, nor be
+used on a commercial multi-player server without the prior,
+explicit written consent of Sten Uusvali.
+
+Enjoy and thank you,
+-Sten Uusvali

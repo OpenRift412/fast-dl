@@ -1,0 +1,28 @@
+::::::::::::::::: Storm3tourney8: Devilish :::::::::::::::::::::::
+
+Title: 		Devilish
+File Name:	Storm3Tourney8
+Author:		Justin 'StormShadow' Ingels
+Contact info:	justiningels@hotmail.com
+Gametypes:	tourney, 2v2 tdm, and small FFA. 
+To play:	Map will show up in your menu.  However, you can type /map storm3tourney8 <enter>.
+
+Textures:	Evil8 texture set by Evil Lair:  evillair.net
+Skybox:		Skybox courtesy of HipShot:  http://www.zfight.com/
+
+Gameplay notes:	There are a couple skill jumps, one from RG to YA platform.  
+		The jump pad behind the rail gun has two destinations. 	If you jump on the back of 
+		the pad, you will bump your head on the ceiling and land on the 2nd level.  If you hit 
+		the front of the pad, you are taken to the 3rd level.  This is not an error.
+
+Thanks to:	Evil Lair for the textures, Hipshot for the skybox.  Maverick Servers for running the competition, the contest sponsors,
+		the judges, my fellow competitors, and everyone involved.  Phantazm11 and Pappy-R for some last minute help :)
+
+Notes:		This map was produced and released for the NoGhost mapping competition:  http://mapping.maverickservers.com/
+
+Distribution:	This map cannot be distributed for commercial gain or profit.  Do no distribute the map without
+		an unaltered version of this readme file (storm3tourney8.txt) without permission.  
+
+
+Any feedback? Comments? Feel free to email me: justiningels@hotmail.com
+Enjoy playing the map!  I enjoyed making it.  

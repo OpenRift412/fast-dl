@@ -1,0 +1,61 @@
+02/15/2001
+================================================================
+Title                   : Blood Run Tourney
+Filename                : ztn3tourney1.pk3
+Author                  : Sten "ztn" Uusvali
+E-mail                  : ztn@planetquake.com
+Description             : Quake III: Arena deathmatch levels
+================================================================
+
+
+* Play Information *
+
+- Make sure you have the latest Quake III: Arena patch installed.
+  For more information, visit http://www.quake3arena.com/
+- Unzip the contents of ztn3tourney1.zip to your Quake3\baseq3 folder
+- Run Quake III: Arena 
+- From the main menu select Single player then Skirmish. The map
+  should appear somewhere on the list, usually at the end.
+
+
+* Description *
+
+Game type     : Tourney
+Respawn spots : 9
+
+What's changed: 
+- Quad Damage removed
+- Clipped out the ceiling area near the Lightning Gun
+
+
+* Author *
+
+Name  : Sten "ztn" Uusvali
+E-mail: ztn@planetquake.com
+Home  : http://www.planetquake.com/ztn
+
+
+* Credits *
+
+- Daniel Holtkamp, Mike Wardwell and the rest of the CPL staff
+- Jeff Yost and the crew at Ramshackle along with the
+  World's Largest Blood Run Fan
+- Grant "Ninja" Creasey
+- all the others who have helped me testing this map
+
+
+* Copyright / Permissions *
+
+Copyright (2001) by Sten Uusvali. All rights reserved.
+
+This package may only be distributed by means of electronic transfer,
+free of any charge to the recipient, and may not be modified in any way.
+All the files included in the original package must remain intact and
+unmodified.
+
+This package may not be distributed on any CD-ROM, nor be
+used on a commercial multi-player server without the prior,
+explicit written consent of Sten Uusvali.
+
+Enjoy and thank you,
+-Sten Uusvali

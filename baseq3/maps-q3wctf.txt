@@ -1,0 +1,86 @@
+Threewave CTF Addon for Quake3: Arena
+-------------------------------------
+
+Thank you for downloading the ThreeWave CTF Addon for Quake3: Arena.  Featuring three all new CTF levels to enhance your online experience in playing the Capture The Flag portion of Quake3: Arena.
+
+Installation
+------------
+
+Please run the self extracting archive and change the directory to where you installed Quake3: Arena.  If you are doing a manual installation, please make sure the file twpak0.pk3 is in the baseq3 folder in your Quake3 installation folder.
+
+This addon features three new CTF levels.  They are:
+
+q3wctf1 "Bloodlust"  . . . . . . Large size CTF map suitable for 16 players
+q3wctf2 "Courtyard Conundrum"  . Medium size CTF map suitable for 10 players
+q3wctf3 "Finnegan's Revenge" . . Medium size CTF map suitable for 12 players
+
+In order to use this addon after installation, go to the multiplayer portion of the game and either join a server with one of the above listed maps, or start a new one using the Create server option.
+
+Server Operators
+----------------
+
+Included with this addon are two server configuation scripts.  They are:
+
+twctf.config - This configures a standard 16 player CTF server that autorotates through the three maps in this addon.
+
+twctfall.config - This configures a standard 16 player CTF server that autorotates through the three maps in this addon, and the existing four CTF maps that come with Quake3: Arena.  This results in a seven map rotation.
+
+For Threewave maps only:
+
+quake3.exe +set dedicated 2 +set com_hunkmegs 18 +exec twctf.config
+
+For Threewave/id maps:
+
+quake3.exe +set dedicated 2 +set com_hunkmegs 24 +exec twctfall.config
+
+You may extract either of this files and modify them as you see fit to customize your server.  The twpak0.pk3 file is a standard ZIP archive and you may extract files from using using a standard zip file utility.
+
+If you do extract the config files, be sure to rename them otherwise the game will use the existing ones and not your modified versions.
+
+Credits 
+-------
+
+===================
+The ThreeWave Team
+===================
+
+Dave "Zoid" Kirsch
+Michael "Casey" Goodhead
+
+Quality assurance testers:
+Pluto, mad-dog, Tiktok, Dakota, DieharD, Celt, Dnormlguy, FibrOptik, Headcrash, Mansa, Onethumb, sCary, Redwood, ThunderBolt, Deltan, DRiller, Phant0m, McCow, Mutha, Kauffee, merton, CC-Yellow, CC-Red, CC-Green, CC-Blue, CC-Turq, CC-Copper, CC-Orange, L-Fire, Toxy, Essobie, diGiTaL, 155&Rising, Hanzo.
+
+Special Thanks:
+
+Dale "TikTok" Tudge for supplying Sweet Tarts
+Tim Willits for showing me the ways of the T-Junction Junction
+Christian "Cluster portals?  Never used them" Antkow
+Allister "SDS" McRae
+Jim "Masky" Lee
+Stephen "Yakazin" Niehaus
+
+===========
+id Software
+===========
+
+PROGRAMMING
+John Carmack, John Cash
+
+ART
+Adrian Carmack, Kevin Cloud, Paul Steed, Kenneth Scott
+
+GAME DESIGNER
+Graeme Devine
+
+LEVEL DESIGN
+Tim Willits, Christian Antkow, Paul Jaquays
+
+CEO
+Todd Hollenshead
+
+DIRECTOR OF BUSINESS DEVELOPMENT
+Katherine Anna Kang
+
+BIZ ASSIST and id MOM
+Donna Jackson
+

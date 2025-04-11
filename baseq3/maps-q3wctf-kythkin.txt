@@ -1,0 +1,31 @@
+------------------------------------------------------------------
+Title         : Kythkin's Revision of Threewave Ctf Maps
+Filename      : maps-q3wctf.pk3
+Author        : The entire threewave team, see other txt file.
+nick          : Kythkin
+Email Address : Kythkin@mac.com
+Description   : Original ctf levels by threewave revised for 100% cross
+                platform mac/linux/dos
+Release Date  : 05/01/2000
+------------------------------------------------------------------
+Instructions:
+-------------
+1 ) Extract maps-q3wctf.pk3 into your Quake3/baseq3/ directory
+2 ) Start Quake3
+3 ) To play threewave ctf maps type map q3wctf1,q3wctf2, or q3wctf3 or goto the arena selection menues"
+
+                       * Construction *
+Build Time    : 2 hours cleanup time.
+Editor(s) used: BBedit Lite, Alladin Dropp Zip
+Known Bugs    : Nope, not now anyways.
+
+                       * Other Info *
+This version's shader file may conflict with the original, I would recommend removing the older version, twpak0.pk3. This version's arena file will not casue errors in future maps, as the old one would have.
+
+I did not change anything relating to the maps, all the textures/sounds maps etc are still there.
+
+Only cleaned up the shader file removing duplicate shader information and fixed a few bugs relating to missing textures on several default maps. The little red/blue lights in the standard ctf, levels also dm12 etc... Dos/Linux versions of quake3 may not have noticed these errors, they were mac specific I beleive.
+Also the bad file nameing of the arenas.txt was changed to q3wctf.arena all of which should have been done after id software decided not to distribute the file with the game.
+
+Special Thanks goes to the threewave team who did a glorious job creating these maps, and polycount/planetquake for getting me into this big time.
+http://www.planetquake.com/polycount/

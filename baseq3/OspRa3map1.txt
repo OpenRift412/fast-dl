@@ -1,0 +1,90 @@
+=============================================================================
+
+Date: 04/11/2002
+
+=============================================================================
+Title                   : Ra3map1 osp 
+
+Filename                : ZIP - ospra3map1.zip
+                          MAP - ospra3map1.bsp
+
+Author                  : Till "Firestarter" Merker
+Remake                  : Marcin "Mortal" Kilan
+
+E-mail                  : fragilemortal@interia.pl
+                          fragilemortal@tenbit.pl
+
+Description             : This is conversion great Ra3map1 (Clan Arena only)
+                          for OSP mod (http://www.OrangeSmoothie.org) Please
+                          play only with Clan Arena setting in OSP.
+                         
+                          
+==============================================================================
+
+* Play Information *
+
+- Game - Quake 3 Arena
+- MOD  - OSP Clan Arena (gametype 5)
+- Bots - YES!! 
+
+Installation instruction:
+- Unzip ospra3map1.zip into your Quake3\osp\ or Quake3\baseq3 directory
+- Run OSP then type in console "\exec clanarena" and in the end "\map ospra3map1" 
+
+
+===============================================================================
+
+CHANGES:
+- Few textures only
+- New blue and red flags by [UVM]AcidRain 
+- FULL!! bot support
+
+
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+MAP BASE               : Ra3map1
+MAP CONSTRUCTION TIME  : 3 days
+PREFABS USED           : None
+EDITOR(S) USED         : GTKRadiant v1.2.x, Photoshop 5, Paintshop Pro 7
+TOTAL COMPILE TIME     : 15 min on - P4 2.4 Ghz with 512 Ram and Gf4 4200
+
+
+================================================================================
+
+* Credits *
+
+- UVM Clan (http://www.uvm-clan.prv.pl/)
+- Firestarter (http://www.planetquake.com/oxymoron5/)
+- [UVM]Gaff 
+- [UVM]AcidRain 
+- Quake3World FORUM (http://www.quake3world.com/)
+- My friends from LAN 
+- id Software
+- Crt for Rocket Arena Mod (www.planetquake.com/arena/) - the ONLY way to play Q3
+
+
+BIG THANKS!!
+
+* Author *
+
+Name  : Till "Firestarter" Merker
+E-mail: firestarter@planetquake.com
+
+Name  : Marcin "Mortal" Kilan
+E-mail: fragilemortal@interia.pl
+        fragilemortal@tenbit.pl
+Home  : Soon :)
+
+If you need source (*.map) file please mail me!
+
+
+* Copyright / Permissions *
+
+(c) 2002 - By Mortal
+This map may be distributed in anyway you like, provided you include this
+.txt file UNMODIFIED and distribute it for free.
+
+
+Enjoy and thank you,
+ * Mortal *

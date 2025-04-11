@@ -1,0 +1,57 @@
+released: January 3rd, 2000
+Re-Released 23/October 2000.
+-------------------------------------------------------------------
+ Title                   : Wicked
+ Filename                : CPM1A.bsp/Q3JDM8B.bsp
+ Authors                 : FxR|jude and Decker.
+ Email Address           : adonald@nsw.bigpond.net.au, and Decker@killerinstincts.com
+ Description             : q3 duel map	
+ URL(s)                  : http://www.team-fxr.com/jude
+                         : http://www.killerinstincts.com/decker
+   			   			                             
+-------------------------------------------------------------------
+- Play Information -
+-------------------------------------------------------------------
+
+ Settings                : bleh
+ Deathmatch 2-8          : not really - although 7 or 8 dm starts
+ Duel	                   : Designed for duel. Plays OK in FFA too.
+
+-------------------------------------------------------------------
+- Construction -
+-------------------------------------------------------------------
+
+Design Time       	 : Several weeks. Originally a q2 ffa map, converted to q3 duel map over several days. 
+                        : Additional time - Decker spent another week or so retexturing the map. Also additional items/spawn changes.
+
+ Settings                :qbsp3          - 2 seconds
+(original q3jdm8a)	  :qvis3         - 3 seconds
+(on a p2-450/160mb)	  :qrad3 -extra  - 20 seconds
+
+ Editor used  	 	 : Quark, Q3Radiant
+ Compile Utilities	 : q3map by id
+ Known Bugs       	 : none
+ Additional Credits	 : [BH]Python, FxR|Mode2, FxR|scoob, FxR|Quarrel for extensive playtesting.
+			       : Decker for the awesome job in retexturing he did.
+	                   : Yves Allaire aka [evil lair] for his great textures @ http://planetquake.com/hfx/
+-------------------------------------------------------------------
+- Instructions -
+-------------------------------------------------------------------
+
+Place .pk3 file into baseq3 directory.
+
+-------------------------------------------------------------------
+- Copyrights/Permissions -
+-------------------------------------------------------------------
+
+This map design (q3jdm8/cpm1) is copyright 2000 by FxR|jude - adonald@nsw.bigpond.net.au.
+
+This map MAY NOT be used as a base for other levels.
+
+This map MAY be distributed on bbs sites or the
+ WWW, as long as this text file is included, intact.
+
+This map MAY NOT be distributed on CD or floppy
+ unless you have the author's permission.
+
+

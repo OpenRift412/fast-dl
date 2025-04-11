@@ -1,0 +1,82 @@
+Finished: september 11th, 2010
+Quake III Arena CPMA TOURNEY/TDM level
+============================================================
+title:            Left Behind
+file:             ct3dm5.pk3
+author:           Ferdinand 'cityy' List
+email address:    cityy at gmx dot de
+website:	  http://cityy.explicits.de
+============================================================
+information:
+
+tourney:          1on1
+team deathmatch:  2on2
+Bot File (aas):   yes
+other:            This map requires CPMA as it contains a green armor.
+		  There are also jumps for CPM so I recommend playing it
+		  in CPM - though it is playable in VQ3 aswell.
+
+how to play:      place ct3dm5.pk3 in your baseq3/ folder
+                  start quake3 
+                  hit ~
+                  type \map ct3dm5
+                  type \addbot <botname> <skill>
+
+                  hit ~ (to clear the console)
+                 
+                  OR select Left Behind(ct3dm5) from the skrimish menu. 
+
+============================================================
+This map has been created for the quake 3 mapping competition #2 
+hosted by maverickservers.com. (http://mapping.maverickservers.com/)
+I always wanted to create a map using a quake2 texture theme, 
+so I decided to take evillair's eq2 texture set and use it for this level. 
+During the contest I had a couple of moments where I wondered if the 
+quality of the eq2 set can compete with all the high res textures you 
+can use nowadays - I even started to retexture it but in the end I went
+back to the eq2 set because of the feedback from the forums (thanks).
+Now, where the map is done I can say that I'm happy with the textures
+and the overall look of the map.
+============================================================
+construction:
+
+base:           none
+editor:         GTKRadiant 1.5/1.4
+other progs:    The GIMP
+know bugs:      none known
+============================================================
+Used materials:
+
+- skybox, eq2-, ex- and a few evil8 textures by evillair - http://www.evillair.net/v2/
+- strogg decals by tabun - http://www.tabun.nl
+- rock texture by kat - http://www.katsbits.com/
+- mud texture by sock - http://www.simonoc.com/ 
+
+Thanks to:
+- Maverick (http://www.maverickservers.com/) for hosting and organizing the contest
+- the sponsors for making the contest possible with their prizes
+	- Crucial - http://www.crucial.com/
+	- Autodesk - http://usa.autodesk.com/
+	- Planetside - http://www.planetside.co.uk/
+	- Sapphire - http://www.sapphiretech.com/
+	- AMD/ATI - http://www.amd.com
+- also the judges for offering their time and making the contest possible
+- everybody who participated in the contest for help, feedback, a great 
+  and challenge and awesome maps
+- everyone else who gave feedback over at the competition forums 
+  (http://www.maverickservers.com/forums/viewforum.php?f=10) and at the 
+  quake3world.com LEM forum (http://www.quake3world.com/forum/viewforum.php?f=10)
+============================================================
+Distribution / Copyright / Permissions 
+
+Copyright (c) 2010 cityy, cityy at gmx dot de
+All rights reserved.
+
+Quake III Arena is a registered trademark of id Software, Inc.
+
+This level may be electronically distributed only at NO
+CHARGE to the recipient in its current state, MUST include
+this .txt file, and may NOT be modified IN ANY WAY. UNDER NO
+CIRCUMSTANCES IS THIS LEVEL TO BE DISTRIBUTED ON CD-ROM
+WITHOUT PRIOR WRITTEN PERMISSION.
+============================================================

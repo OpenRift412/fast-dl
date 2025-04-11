@@ -1,0 +1,87 @@
+====================================================
+date: Mar 15, 2002.
+Quake3Arena CTF level.
+====================================================
+title:            The Vast and Furious
+file:             bubctf1.pk3
+author:           ButterB 
+email address:    butterb@planetquake.com
+webpage: 	  www.planetquake.com/butterb
+description:      Space floater CTF map 
+                  intended for 4vs4 5vs5 I've heard more is better!
+====================================================
+play information
+tourney:          no
+deathmatch:       I suppose
+CTF:              yes (TA, 3W, and CCTF *are* supported)
+Bot File (aas):   yes
+other:            no
+new sounds:       no
+new graphics:     Yes, all included (by evil lair) and the skybox is by kabal
+new music:        no
+                  
+====================================================
+info
+
+THIS HAS NO REFERENCE TO THE MOVIE. :)
+
+A CTF arena set between worlds. In a "Vast" expanse where time does not exist. It is not seen through the world of mortals... ahh whatever.
+
+A space map to replace that damn q3ctf4. That was my goal. I am amazed at the fact I
+got this map running as well as I did. I knew what I wanted, and from the start I was
+worried it wouldn't work due to its size. Luckily with a good amount of beta testing and 
+a great texture set to make it look like it does, I think I fairly succeeded in my idea.
+
+This will not work on point releases below 1.25(?) I believe. This is due to the key       values to allow different gametypes and mods.
+
+Comments?
+
+Please e-mail me at: butterb@planetquake.com
+
+If you choose to host this map on a server, please let me know. I will post an ip for people to know where my maps are played at.
+
+====================================================
+construction
+
+base:           none
+editor:         GtkRadiant 1.1.1
+know bugs:      listed above
+build time:     40+ hrs off and on over 2 months.
+====================================================
+thanx to ...
+
+Kat-for helping me with those stupid bots. :)
+7zark7-and all his beta test crew in the Q3W TA forums! You guys rock!
+Cardigan-for his tutorial on bot optimization in space maps. I think I'll never
+do that again. :)
+kabal-for the skybox, everyone seems to love it dude! You get all the credit!
+Evil Lair-for making the perfect texture set to fit this map. It really allowed
+me to keep it looking very detailed, while using few brushes. You rock too!
+ASWP for the initial beta test. What would I do without you.
+Threewave- for a great mod and the use if their textures and logos.
+
+And to all of the hundreds of people (wow! hundreds!) who downloaded the betas
+and rung it through the ringers to get it going. I never had so may e-mails on one subject!
+
+
+
+====================================================
+Distribution / Copyright / Permissions 
+
+Copyright (c) 2002 "ButterB" Brian Hahn
+All rights reserved.
+
+Quake III Arena is a registered trademark of 
+id Software, Inc.
+
+Authors MAY NOT use this level as a base to build additional levels.
+
+You are NOT allowed to commercially exploit this level, i.e. put it on a CD 
+or any other electronic medium (e.g. that would be included with a magazine)
+without my explicit permission!
+
+You MAY distribute this BSP and associated files through the (internet, 
+FTP, local BBS etc.), provided you include this file and leave the archive intact.
+
+====================================================
+

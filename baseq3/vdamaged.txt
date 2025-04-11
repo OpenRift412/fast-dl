@@ -1,0 +1,54 @@
+================================================================
+Title                   : Somewhat Damaged
+Date                    : 12/17/99 
+Filename                : vdamaged.pk3
+Author                  : Brent "Veldrin" McLeod
+Email Address           : veldrin@nihilistic.com
+Description             : A fairly small deathmatch level suitable for 2-6 
+                        : players.  No Quad so it should be good for 1v1 
+                        : tournament matches.
+
+Additional Credits to   : id software for doing what id does best, everyone 
+                        : on #quakeed for help with the beta testing.
+
+================================================================
+
+- Play Information -
+
+Players                 : Preferably 2-6 players.
+Bots                    : Yes. (not thoroughly tested)
+Weapons                 : Rocket Launcher(2), Railgun, Plasma Gun, 
+                        : Super Shotgun(2)
+Armor                   : Yellow Armor(2), Shards(15)
+Ammo                    : Cells(2), Rockets(2), Shells(2), Slugs(2)
+Health                  : Health(8), Large(2), Small(8), Mega
+
+Just throw the pk3 file into your baseq3 directory, and type "map vdamaged" at 
+the console.
+
+- Construction -
+
+Base                    : New level from scratch
+Editor(s) used          : Q3Radiant
+Known Bugs              : None.
+Build Time              : 2 days.
+
+Textures used           : Gothic set.
+
+Compile machine         : P2/333 with 384megs running Windows 2000 
+q3map BSP Time          : < 1 minutes
+q3map Vis Time          : ~20 minutes
+q3map Light Time        : ~27 minutes
+bspc Time               :  ~5 minutes
+Brushes                 : 1772
+Entities                :  101
+
+- Other Info -
+My first official Quake3 map. Enjoy.
+
+- Copyright / Permissions -
+
+This level is (c) 1999 Brent McLeod.
+You not include or distribute this map in any sort of commercial product without 
+permission from the author.  You may not mass distribute this level via any 
+non-electronic means, including but not limited to compact disks, and floppy disks.

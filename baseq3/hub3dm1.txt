@@ -1,0 +1,66 @@
+TITLE                   : Dismemberment
+FILENAME                : hub3dm1.zip
+AUTHOR                  : The Hubster
+DATE                    : Feb 10 2001
+TYPE                    : Tourney
+EMAIL ADDRESS           : hburji@hotmail.com
+WEBSITE URL	            : http://hubster.challenge-au.com/
+ZIPFILE CONTENTS		: hub3dm1.pk3, hub3dm1.txt
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+Designed for duel play in the Challenge Promode mod. Plays fine with normal
+Quake III Arena. Theme inspired by the Team Arena map "Scornforge". Textures
+were NOT taken from Team Arena, they were created by myself. Metal techfloor
+shader originally by id Software, modified by myself. Bouncepad textures
+originally by Id Software, modified by myself.
+--------------------------------------------------------------------------------
+DEATHMATCH              : 6 Player Respawn Points
+TEAM DEATHMATCH         : Try it out, and tell me if it's fun?
+SUGGESTED PLAYER LOAD   : 2
+DIFFICULTY SETTINGS     :  -
+NEW TEXTURES            : Yes
+NEW SOUNDS              : No
+NEW MODELS	            : No
+
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+MAP BASE                : New Map
+PREFABS USED            : My own (for the Square Cylinder Arches)
+EDITOR(S) USED          : Q3radiant 202B3, GTK Radiant 1.1 TA Beta
+OTHER UTILITIES USED    : Photoshop, Editpad, Qase
+KNOWN BUGS              : None
+COMPILE MACHINE         : P3 600eMhz, 256MB RAM, GeForce DDR
+BSP TIME                : Approx 20 seconds
+VIS TIME				: Approx 4 minutes
+LIGHT TIME				: Approx 10 minutes
+
+--------------------------------------------------------------------------------
+* CREDITS *
+--------------------------------------------------------------------------------
+BANJO	: for all his help. He was largely responsible for the layout, spawn and
+		  item placements. This is as much his map as it is mine.
+XFOO	: Also had major input into the layout and item placements. Thankyou for
+		  your expertise:-)
+SHOVEL	: Helped with performance optimisations. Thanks for teaching me some new
+		  things buddy!
+WASP	: for keeping me going all this time. He knows more than anyone how long
+		  it took for me to get this level done. Thanks for your support!
+ID		: for making a map like Scornforge - it's a fantastic piece of work!
+
+--------------------------------------------------------------------------------
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS. If you don't co-operate, then DON'T DISTRIBUTE IT
+IN ANY FORM.
+
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my written permission.
+
+Quake III Arena (C) 1999 id Software. All rights reserved.
+Quake III Team Arena (C) 2000 id Software. All rights reserved.

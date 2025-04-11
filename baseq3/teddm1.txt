@@ -1,0 +1,40 @@
+10/05/2002
+
+================================================================
+Description             : Quake III Arena map
+Map Name                : Deep Inside
+Filename                : teddm1.pk3
+Author                  : J. Scott Drader aka Teddy
+Website			: http://www.planetquake.com/teddy
+E-mail                  : sdrader@interchange.ubc.ca
+ICQ UIN			: 47270361
+MSN			: sdrader@hotmail.com
+IRC			: irc.enterthegame.com -> #mob
+================================================================
+
+
+==========
+== Info ==
+==========
+
+This map is a renamed re-release of the map "ospdm5" that was included with the OSP mod (www.orangesmoothie.org), which was released about a year ago or so. Its exactly the same map as the original. With this separate release, it's a lot easier to use this map outside the OSP mod.
+
+==================
+== Installation ==
+==================
+
+The "teddm1.pk3" simply needs to be in your "\baseq3" folder.
+
+=============
+== Credits ==
+=============
+
+This map uses a few custom textures. Thanks to Yves Allaire (aka "evil lair") for the HFX textures, and Iikka Keranen (aka "Fingers") for the IK textures. Thanks to all the folks that gave me opinions on different builds of the map. Thanks of course to the people at ID software for a game with such lasting appeal.
+
+=============================
+== Copyright / Permissions ==
+=============================
+
+Copyright (2002) by J. Scott Drader. All rights reserved.
+
+This package may only be distributed free of any charge to the recipient, and may not be modified in any way. All the files included in the original package must remain intact and unmodified.

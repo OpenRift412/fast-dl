@@ -1,0 +1,56 @@
+
+NOTE: 
+This version of Overkill! is a re-release. I normally never do re-releases but as some
+bugs were exploitable, I figured that this one was in order.
+
+Update info:
++ I fixed the clip errors which allowed people to walk over the skies and roofs etc.
++ I also added team play support because so many people asked me to include it.
++ I also changed the .shader name to get rid of possible future shader overwrites
+  (You can sleep now, ztn) ;]
+
+
+-- Level info
+
+Title                   : Overkill! v2
+Map Filename            : overkill.bsp
+Official Release Date   : February 08, 2000
+Re-release Date		: August 11, 2000
+
+Author                  : Wiebo de Wit
+Email Address           : wiebo@planetquake.com
+Homepage		: http://www.planetquake.com/wdw
+
+Map Type                : Deathmatch 2-12 players/Teamplay 2-2 or 4-4
+Bot support		: yeah baby.
+
+Map description         : Large, open castle-like environment with loads of
+                          space to run and frag in.
+
+Thanks to               : My girlfriend for putting up with long editing hours, id,
+                          Jeff Yost (+ team) and Mr.CleaN for testing and feedback.
+			  Thanks also to those people who kept asking me for a bug
+			  fixed version with team-play support. ...you got it now, folks.
+
+-- Construction
+
+Base			: New level from scratch
+Editor used             : Q3Radiant
+Known Bugs              : None known now. Tell me if you find one.
+Build Time              : Too long. I had to get used to Quake 3 features etc.
+Compile machine         : PII350, 128mb, TnT2
+Re-Compile machine	: Lord Imric's Athlon 700/512Mb/GeForce2/21" monitor. Again, thanks!
+
+-- Usage
+
+    1.  Unzip overkill.pk3 into your quake3/baseq3 directory
+    2.  Fire up Q3A, select SKIRMISH, select FFA or TEAMPLAY and select the level.
+
+-- Copyright / Permissions
+
+Quake III Arena is a registered trademark of id Software, Inc.
+
+This level is (c) 2000 Wiebo de Wit.
+You may distribute this map FREELY via internet, provided you include this
+.TXT file and leave the archive intact with no modifications. If you would
+like to use this map in any other way, contact me via wiebo@planetquake.com
